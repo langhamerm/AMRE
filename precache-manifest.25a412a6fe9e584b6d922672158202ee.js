@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b96467448ca8595aed8d640ae989627",
+    "revision": "a1f69234e95783f0d19b577761abb0f1",
     "url": "/amre/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amre/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ea4e530892407cdcdda7",
+    "revision": "8fc54e6ed66e360e9d97",
     "url": "/amre/static/css/main.7846461a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amre/static/js/2.a6dffdb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea4e530892407cdcdda7",
-    "url": "/amre/static/js/main.6e39860f.chunk.js"
+    "revision": "8fc54e6ed66e360e9d97",
+    "url": "/amre/static/js/main.83356218.chunk.js"
   },
   {
     "revision": "05a43ab45ddf252d239b",
