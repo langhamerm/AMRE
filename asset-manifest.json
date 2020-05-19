@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amre/static/css/main.7846461a.chunk.css",
-    "main.js": "/amre/static/js/main.59c61956.chunk.js",
-    "main.js.map": "/amre/static/js/main.59c61956.chunk.js.map",
+    "main.js": "/amre/static/js/main.c1d923d6.chunk.js",
+    "main.js.map": "/amre/static/js/main.c1d923d6.chunk.js.map",
     "runtime-main.js": "/amre/static/js/runtime-main.28639572.js",
     "runtime-main.js.map": "/amre/static/js/runtime-main.28639572.js.map",
     "static/css/2.af3c1da9.chunk.css": "/amre/static/css/2.af3c1da9.chunk.css",
     "static/js/2.a6dffdb0.chunk.js": "/amre/static/js/2.a6dffdb0.chunk.js",
     "static/js/2.a6dffdb0.chunk.js.map": "/amre/static/js/2.a6dffdb0.chunk.js.map",
     "index.html": "/amre/index.html",
-    "precache-manifest.478bab1aab15c7f5251e2a9962c123bb.js": "/amre/precache-manifest.478bab1aab15c7f5251e2a9962c123bb.js",
+    "precache-manifest.e931fc8965ef21be7a2a8543394c3998.js": "/amre/precache-manifest.e931fc8965ef21be7a2a8543394c3998.js",
     "service-worker.js": "/amre/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/amre/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.7846461a.chunk.css.map": "/amre/static/css/main.7846461a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a6dffdb0.chunk.js",
     "static/css/main.7846461a.chunk.css",
-    "static/js/main.59c61956.chunk.js"
+    "static/js/main.c1d923d6.chunk.js"
   ]
 }
